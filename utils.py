@@ -137,10 +137,10 @@ def list_to_str(k):
     else:
         return ' '.join(f'{elem}, ' for elem in k)
 
-__𝐌𝐚𝐤𝐞 𝐘𝐨𝐮'𝐫𝐞 𝐎𝐰𝐧 𝐁𝐨𝐭 𝐂𝐨𝐧𝐭𝐚𝐜𝐭__ = "https://t.me/i_manjot_sidhu"
+__repo__ = "https://t.me/telegram"
 __version__ = "4.5.0"
 __license__ = "GNU GENERAL PUBLIC LICENSE V2"
-__copyright__ = "Copyright (C) 2023-present 𝐍𝐞𝐭𝐟𝐥𝐢𝐱 𝐕𝐢𝐥𝐥𝐚 𝐈𝐧𝐝𝐢𝐚 𝐁𝐨𝐭 <https://github.com/>"
+__copyright__ = "Copyright (C) 2023-present <https://github.com/>"
 
 async def search_gagala(text):
     usr_agent = {
