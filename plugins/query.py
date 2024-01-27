@@ -468,7 +468,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('Make You're Own Bot Contact', url='https://i_manjot_sidhu')
+            InlineKeyboardButton('Make You are Own Bot Contact', url='https://i_manjot_sidhu')
             ],[
             InlineKeyboardButton('‹ Bᴀᴄᴋ', 'about')
         ]]
