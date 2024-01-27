@@ -8,16 +8,16 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/i_manjot_sidhu></a>
-✯ Owner: <a herf=https://t.me/i_manjot_sidhu></a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/i_manjot_sidhu>𝐉𝐨𝐭 𝐒𝐢𝐝𝐡𝐮</a>
+✯ 𝐎𝐰𝐧𝐞𝐫: <a herf=https://t.me/netflix_india_007>༄༄𝐑𝐀𝐕𝐈༄༄</a>
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+- 𝐌𝐚𝐤𝐞 𝐘𝐨𝐮'𝐫𝐞 𝐎𝐰𝐧 𝐁𝐨𝐭 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 ◉› :<a href=https://t.me/i_manjot_sidhu>𝐍𝐞𝐭𝐟𝐥𝐢𝐱 𝐕𝐢𝐥𝐥𝐚 𝐈𝐧𝐝𝐢𝐚 𝐁𝐨𝐭</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/netflix_india_007>༄༄𝐑𝐀𝐕𝐈༄༄</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
