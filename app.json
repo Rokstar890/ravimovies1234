@@ -1,8 +1,8 @@
 {
-    "name": "PROFESSOR-BOT",
+    "name": "PROFESSOR-BOT Edit By Jot Sidhu",
     "description": "The Telegram Autofilter Bot",
-    "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
-    "keywords": ["Telegram", "auto-filter", "MrMKN"],
+    "logo": "https://graph.org/file/45223ad25748b1e942234.jpg",
+    "keywords": ["Telegram", "auto-filter", "༄༄𝐑𝐀𝐕𝐈༄༄"],
     "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
     "env": {
         "WEBHOOK": {
